@@ -3,3 +3,4 @@ crewai_tools
 firecrawl-py
 python-dotenv
 langchain_google_genai
+Flask
