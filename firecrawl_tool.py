@@ -2,8 +2,6 @@ import json
 from firecrawl import FirecrawlApp
 from loading_env import firecrawl_api_key
 
-
-
 def scrapping_function(website_url):
     app = FirecrawlApp(api_key=firecrawl_api_key)
     specific_pages = [
@@ -21,5 +19,3 @@ def scrapping_function(website_url):
     with open('scraped_data.json', 'w', encoding='utf-8') as md_file:
         json.dump(scraped_data, md_file, ensure_ascii=False, indent=4)
     return scraped_data
-
-url = scrapping_function('designgaga.ca')
