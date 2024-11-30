@@ -24,9 +24,32 @@ file_reader_task = Task(
     output_file='basic_info.md'
 )
 
+def icp_reader():
+    with open('basic_info.md', 'r', encoding='utf-8') as file:
+        icp_info = file.read()
+    return icp_info
+
+icp_info = icp_reader()
+
+icp_generator_agent = Agent(
+    role='Senior ICP Generator Agent',
+    goal = f'Give me the target audience for {icp_info} industry for Ideal customer profile',
+    backstory="""You are an expert icp generator that can generate detailed Ideal customer profile""",
+    # verbose=True,
+    llm=GenAI
+)
+
+icp_generator_task = Task(
+    description="""Give me the target audience for industry for Ideal customer profile also add goegraphic loaction, pain points etc. 
+    """,
+    expected_output='Generate the Ideal Customer Profile from the data and only save the ICP data in the output file',
+    agent=icp_generator_agent,
+    output_file='icp_data.md',
+)
+
 crew = Crew(
-    agents=[file_reader],
-    tasks=[file_reader_task],
+    agents=[icp_generator_agent],
+    tasks=[icp_generator_task],
     verbose=1,
     process=Process.sequential
 )
