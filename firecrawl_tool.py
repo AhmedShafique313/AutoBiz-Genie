@@ -1,10 +1,8 @@
-import os
-from firecrawl import FirecrawlApp
-from dotenv import load_dotenv
 import json
+from firecrawl import FirecrawlApp
+from loading_env import firecrawl_api_key
 
-load_dotenv()
-firecrawl_api_key = os.environ.get('FIRECRAWL_API_KEY')
+
 
 def scrapping_function(website_url):
     app = FirecrawlApp(api_key=firecrawl_api_key)
