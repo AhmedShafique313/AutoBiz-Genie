@@ -19,8 +19,8 @@ def run_crewai_system(input_url):
     )
 
     file_reader_task = Task(
-        description='Read the scraped data JSON data and extract important information.',
-        expected_output='Must add all these details: Business Name, Industry, Services, Location, Contact Info, etc., and save the entire data in the output file',
+        description='Read the scraped data JSON data and extract important information and save it like text form not json.',
+        expected_output='Must add all these details: Business Name, Industry, Services, Location, Contact Info, etc., and save the it in the output file and Make some bullet points and create a clear document.',
         agent=file_reader,
         output_file='basic_info.md'
     )
@@ -28,8 +28,6 @@ def run_crewai_system(input_url):
     crew = Crew(
         agents=[file_reader],
         tasks=[file_reader_task],
-        # verbose=1,
-        # process=Process.sequential
     )
 
     crew.kickoff()
@@ -53,8 +51,6 @@ def run_crewai_system(input_url):
     crew = Crew(
         agents=[icp_generator_agent],
         tasks=[icp_generator_task],
-        # verbose=1,
-        # process=Process.sequential
     )
 
     crew.kickoff() 
