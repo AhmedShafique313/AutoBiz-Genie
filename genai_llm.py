@@ -3,7 +3,8 @@ from firecrawl_tool import scrapping_function
 from langchain_google_genai import ChatGoogleGenerativeAI
 from loading_env import google_api_key
 
-file_path = scrapping_function('designgaga.ca')
+input_url = input('Enter the URL: ')
+file_path = scrapping_function(input_url)
 
 GenAI = ChatGoogleGenerativeAI(
     model='gemini-1.5-flash',
