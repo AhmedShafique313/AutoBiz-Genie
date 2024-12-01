@@ -11,11 +11,17 @@
         <div class="container">
             <h1>AutoBiz Genie</h1>
             <p>Transforming Businesses with AI Automation</p>
-            <h3>Enter the website URL to get the information about the business.</h3>
+            <h4>Enter the website URL to get the information about the business.</h4>
             <form method="post">
                 <input type="text" name="url" placeholder="Enter URL" required>
                 <button type="submit">Enter</button>
             </form>
+            {% if scraped_data %}
+            <h2 class="mt-5">Generated Ideal Customer Profile:</h2>
+            <div class="result">
+                <pre>{{ scraped_data }}</pre>
+            </div>
+            {% endif %}
             <div class="footer">Ahmed Shafique</div>
         </div>
     </body>

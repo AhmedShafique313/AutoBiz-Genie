@@ -1,27 +1,29 @@
 **DesignGaga**
 
 * **Business Name:** DesignGaga
-* **Industry:** Home Staging, Interior Design, Virtual Staging, Airbnb Special
+* **Industry:** Home Staging, Interior Design, Virtual Staging, Airbnb Specializing
 * **Services:**
-    * **Home Staging:**  Maximize property value, transform listings, quick property sales strategies, buyer interest boosting techniques. Full-service including property assessment, furniture selection & styling, accessory & decor sourcing, project management, and turnkey installation.
-    * **Interior Design:** Full-service design focusing on modern aesthetics and curated choices.
-    * **Virtual Staging:**  Creating digitally staged images of properties.
-    * **Airbnb Special:** Services specifically tailored for Airbnb properties.
-    * **Consultation Services:**  Personalized consultations to discuss project needs.
+    * **Home Staging:**  Maximize property value, transform listings, quick property sales strategies, buyer interest boosting.  Full-service including property assessment, furniture selection & styling, accessory & decor sourcing, project management, and turnkey installation.
+    * **Interior Design:**  Full-service design focusing on modern aesthetics and curated choices to create sophisticated, relaxed living spaces.
+    * **Virtual Staging:**  (Images and details found on the website)
+    * **Airbnb Specializing:** (Images and details found on the website)
+    * **Consultation Services:**  Offered for all services.
 
-* **Location:** 1589 Bayshire Dr, Oakville, ON L6H 6E4, Canada (Toronto area)
-* **Contact Info:**
+
+* **Location:** 1589 Bayshire Dr, Oakville, L6H6E4, Canada (Toronto area)
+* **Contact Information:**
     * Phone: (437) 987 8666
     * Email: Gagan@designgaga.ca
     * Website: designgaga.ca
-* **Portfolio:**  Features several projects showcasing modern elegance, curated comfort, and natural elegance in their staging style.  Examples include "Modern Elegance: Inside Gagan’s Cohesive Staging Aesthetic," "Curated Comfort: Gagan’s Signature Blend of Style and Function," and "Elevating Spaces: The Natural Elegance of Gagan’s Staging Style."
-* **Blogs:**  The website features a blog section with recent articles on topics such as luxurious home bars, modern kitchens, spa-like bathrooms, and modern lounges.
-* **Social Media:** Instagram: @Designgaga78
+    * Social Media: @Designgaga78 (Instagram)
+
+* **Portfolio:**  A selection of completed projects showcasing modern elegance, curated comfort, and natural elegance staging styles, is available on their website.  These projects highlight various design aesthetics and approaches.
+
+* **Blogs:** The company maintains a blog with articles on topics such as home bar design, kitchen design for modern living, modern bathroom design, and modern lounge design.  These are updated regularly.
+
+* **Team:** Led by Gagan Arora and a team of experienced professionals.
 
 
-**Additional Notes:**
+* **Additional Information:** DesignGaga emphasizes a fun, stress-free staging experience, mixing creativity and the latest trends.  They offer detail-oriented planning and intentional design with a blend of modern flair and timeless elegance.  They cater to various needs, from full-service to virtual staging.  They also have job openings for Customer Experience Associate, Interior Designer, Project Coordinator, and Marketing Coordinator.
 
-* The company emphasizes a detail-oriented and personalized approach, working closely with clients to understand their needs and achieve their vision.
-* They highlight their experience and expertise in the real estate and design fields, aiming to help clients sell their properties quickly and at the best possible price.
-* The website includes contact forms for inquiries and consultations.
-* The company actively promotes its services through various digital marketing channels.
+This information was compiled from the provided JSON data which contained web scraped content from multiple pages of the DesignGaga website.  The data was not structured as a typical JSON object, but rather as a key-value store of page content.
