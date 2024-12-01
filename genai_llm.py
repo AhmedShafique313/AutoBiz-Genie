@@ -28,7 +28,7 @@ def run_crewai_system(input_url):
     crew = Crew(
         agents=[file_reader],
         tasks=[file_reader_task],
-        verbose=1,
+        # verbose=1,
         # process=Process.sequential
     )
 
@@ -53,7 +53,7 @@ def run_crewai_system(input_url):
     crew = Crew(
         agents=[icp_generator_agent],
         tasks=[icp_generator_task],
-        verbose=1,
+        # verbose=1,
         # process=Process.sequential
     )
 
