@@ -1,28 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title t="webname">AutoBiz Genie</title>
-        <link rel="stylesheet" href="static/style.css">
-        <script src="https://unpkg.com/@phosphor-icons/web"></script>
-    </head>
-    <body>
-        <div class="container">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AutoBiz Genie</title>
+    <link rel="stylesheet" href="static/style.css">
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
             <h1>AutoBiz Genie</h1>
             <p>Transforming Businesses with AI Automation</p>
-            <h4>Enter the website URL to get the information about the business.</h4>
+            <h3>Enter the website URL to get the information about the business.</h3>
             <form method="post">
                 <input type="text" name="url" placeholder="Enter URL" required>
                 <button type="submit">Enter</button>
             </form>
-            {% if scraped_data %}
-            <h2 class="mt-5">Generated Ideal Customer Profile:</h2>
-            <div class="result">
-                <pre>{{ scraped_data }}</pre>
+        </div>
+
+        <div class="result-container1">
+            {% if scraped_data1 %}
+            <h2>Business Infromation:</h2>
+            <div class="result1">
+                <pre>{{ scraped_data1 }}</pre>
             </div>
             {% endif %}
-            <div class="footer">Ahmed Shafique</div>
         </div>
-    </body>
+        <div class="result-container2">
+            {% if scraped_data2 %}
+            <h2>Generated Ideal Customer Profile:</h2>
+            <div class="result2">
+                <pre>{{ scraped_data2 }}</pre>
+            </div>
+            {% endif %}
+        </div>
+
+        <div class="footer">Ahmed Shafique</div>
+    </div>
+</body>
 </html>
