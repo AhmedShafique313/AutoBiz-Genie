@@ -4,7 +4,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from loading_env import google_api_key
 
 input_url = input('Enter the URL: ')
-file_path = scrapping_function(input_url)
+scraped_data = scrapping_function(input_url)
 
 GenAI = ChatGoogleGenerativeAI(
     model='gemini-1.5-flash',
@@ -13,7 +13,7 @@ GenAI = ChatGoogleGenerativeAI(
 
 file_reader = Agent(
     role='Senior JavaScript Object Notation Data Reader',
-    goal=f'Effectively the entire read json data from {file_path} and extract important information',
+    goal=f'Effectively the entire read json data from {scraped_data} and extract important information',
     backstory="""You are a expert json data reader.""",
     llm = GenAI
 )
