@@ -1,29 +1,23 @@
 **DesignGaga**
 
 * **Business Name:** DesignGaga
-* **Industry:** Home Staging, Interior Design, Virtual Staging, Airbnb Specializing
+* **Industry:** Home Staging, Interior Design, Virtual Staging, Airbnb Special
 * **Services:**
-    * **Home Staging:**  Maximize property value, transform listings, quick property sales strategies, buyer interest boosting.  Full-service including property assessment, furniture selection & styling, accessory & decor sourcing, project management, and turnkey installation.
-    * **Interior Design:**  Full-service design focusing on modern aesthetics and curated choices to create sophisticated, relaxed living spaces.
-    * **Virtual Staging:**  (Images and details found on the website)
-    * **Airbnb Specializing:** (Images and details found on the website)
-    * **Consultation Services:**  Offered for all services.
+    * **Home Staging:**  Maximize property value, transform listings, quick property sales, key to selling, boost buyer interest.  Full-service including personalized staging plans, hassle-free experience, expert guidance, property assessment, furniture selection & styling, accessory & decor sourcing, project management, and turnkey installation.
+    * **Interior Design:** Full-service design focusing on modern aesthetics and curated, bold choices.  Creating sophisticated, relaxed living spaces.
+    * **Virtual Staging:**  (Images and details available on website)
+    * **Airbnb Special:** (Images and details available on website)
+    * **Consultation Services:** Available for all services.
 
 
-* **Location:** 1589 Bayshire Dr, Oakville, L6H6E4, Canada (Toronto area)
+* **Location:** 1589 Bayshire Dr, Oakville, ON L6H 6E4, Canada (Toronto area)
 * **Contact Information:**
     * Phone: (437) 987 8666
     * Email: Gagan@designgaga.ca
-    * Website: designgaga.ca
-    * Social Media: @Designgaga78 (Instagram)
+    * Website: https://designgaga.ca/
+    * Social Media: [@Designgaga78](https://www.instagram.com/designgaga78/)
+* **Portfolio:**  A selection of staged homes showcasing modern elegance, curated comfort, and natural elegance.  Specific project titles and links are available on their website portfolio page.  Examples include: "Modern Elegance: Inside Gagan’s Cohesive Staging Aesthetic," "Curated Comfort: Gagan’s Signature Blend of Style and Function," "Elevating Spaces: The Natural Elegance of Gagan’s Staging Style," "Designed to Sell: Modern Spaces with Rustic Charm and Elegance," "Staged to Sell: Timeless Interiors with Warmth and Sophistication," and "Home Staging is Key to Selling."
 
-* **Portfolio:**  A selection of completed projects showcasing modern elegance, curated comfort, and natural elegance staging styles, is available on their website.  These projects highlight various design aesthetics and approaches.
+* **Blogs:** DesignGaga publishes blog posts featuring design ideas and lookbooks.  Recent posts include topics such as a luxurious home bar, a modern kitchen, a spa-like bathroom, and a modern lounge.
 
-* **Blogs:** The company maintains a blog with articles on topics such as home bar design, kitchen design for modern living, modern bathroom design, and modern lounge design.  These are updated regularly.
-
-* **Team:** Led by Gagan Arora and a team of experienced professionals.
-
-
-* **Additional Information:** DesignGaga emphasizes a fun, stress-free staging experience, mixing creativity and the latest trends.  They offer detail-oriented planning and intentional design with a blend of modern flair and timeless elegance.  They cater to various needs, from full-service to virtual staging.  They also have job openings for Customer Experience Associate, Interior Designer, Project Coordinator, and Marketing Coordinator.
-
-This information was compiled from the provided JSON data which contained web scraped content from multiple pages of the DesignGaga website.  The data was not structured as a typical JSON object, but rather as a key-value store of page content.
+* **About:** DesignGaga is a creative home staging studio known for transforming spaces into showstoppers. They specialize in designing homes that resonate with today's market and are led by Gagan Arora.  They emphasize a fun, stress-free staging experience blending creativity and the latest trends.  Their team is detail-oriented and handles every step of staging with care.
