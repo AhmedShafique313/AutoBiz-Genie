@@ -7,8 +7,8 @@ def index():
    if request.method== 'POST':
       url = request.form['url']
       run_crewai_system(url)
-      basic_info_file_path = r'C:\Users\Ahmed Shafique\Documents\Projects\AutoBiz Genie\basic_info.md'
-      icp_file_path = r'C:\Users\Ahmed Shafique\Documents\Projects\AutoBiz Genie\icp_data.md'
+      basic_info_file_path = r'C:\Users\Ahmed Shafique\Documents\Projects\AutoBiz Genie\AutoBiz-Genie\basic_info.md'
+      icp_file_path = r'C:\Users\Ahmed Shafique\Documents\Projects\AutoBiz Genie\AutoBiz-Genie\icp_data.md'
       try:
          with open(basic_info_file_path, 'r', encoding='utf-8') as file:
             baic_content = file.read()
