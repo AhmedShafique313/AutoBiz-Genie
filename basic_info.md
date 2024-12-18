@@ -1,31 +1,23 @@
 **DesignGaga**
 
 * **Business Name:** DesignGaga
-* **Industry:** Home Staging, Interior Design, Virtual Staging, Airbnb Special
+* **Industry:** Home Staging, Interior Design, Virtual Staging, Airbnb Specializing
 * **Services:**
-    * **Home Staging:**  Maximize property value, transform listings, quick property sales, key to selling, boost buyer interest.  Full-service including property assessment, furniture selection & styling, accessory & decor sourcing, project management, and turnkey installation.
-    * **Interior Design:**  Elevate your space with expert services to bring your dream home to life.
-    * **Virtual Staging:**  (Images shown on website)
-    * **Airbnb Special:** (Images shown on website)
-    * **Consultation Services:**  Offered for all services.
+    * **Home Staging:**  Maximize property value with professional home staging; transform listings with expert tips; secrets for quick property sales;  simple staging strategies to boost buyer interest. Full-service design including property assessment, furniture selection & styling, accessory & decor sourcing, project management, and turnkey installation.
+    * **Interior Design:**  Full-service interior design with modern aesthetics and curated choices.
+    * **Virtual Staging:**  Virtual staging services.
+    * **Airbnb Specializing:**  Airbnb-specific design and staging services.
+    * **Consultation Services:**  Offers consultations for all services.
 
-
-* **Location:** 1589 Bayshire Dr, Oakville, ON L6H 6E4, Canada (Toronto area)
+* **Location:** 1589 Bayshire Dr, Oakville, L6H6E4, Canada (Toronto area)
 * **Contact Information:**
     * Phone: (437) 987 8666
     * Email: Gagan@designgaga.ca
     * Website: designgaga.ca
-    * Contact Form available on website.
+    * Social Media: @Designgaga78 (Instagram)
+* **Portfolio:**  A portfolio of past projects showcasing their work is available on their website.  Specific projects include "Modern Elegance: Inside Gagan’s Cohesive Staging Aesthetic," "Curated Comfort: Gagan’s Signature Blend of Style and Function," "Elevating Spaces: The Natural Elegance of Gagan’s Staging Style," "Designed to Sell: Modern Spaces with Rustic Charm and Elegance," and "Staged to Sell: Timeless Interiors with Warmth and Sophistication."
+* **Team:** Led by Gagan Arora, with a team of experienced designers and project coordinators.
+* **Blog:**  DesignGaga has a blog section featuring articles on design and home staging. Recent posts include articles on home bars, modern kitchens, modern bathrooms, and modern lounges.
 
 
-* **Portfolio:**  Features several completed projects showcasing different design styles (Modern Elegance, Curated Comfort, Elevating Spaces, Designed to Sell, Staged to Sell).  More projects viewable on their website.
-
-* **Blog:**  Recent blog posts include topics such as home bar design, kitchen design, modern bathroom design, and modern lounge design.  More posts available on their website.
-
-* **Social Media:**  Instagram: @Designgaga78 (link provided on website)
-
-
-* **Team:** Led by Gagan Arora and includes a team with experience in home staging and interior design.  Open positions listed on website.
-
-
-* **About:** DesignGaga is a creative home staging studio known for turning spaces into showstoppers. They specialize in designing homes that resonate with today's market, blending modern flair and timeless elegance.  They offer a personalized approach, stress-free experience, and expert guidance.
+This information is compiled from the provided JSON data, which represents scraped content from various pages of the DesignGaga website.  The data includes some repetition, which has been consolidated in this summary.
