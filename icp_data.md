@@ -2,50 +2,45 @@
 
 **1. Demographics:**
 
-* **Age:** 35-65 years old.  This range encompasses homeowners considering renovations, upgrades, or preparing their homes for sale.  Younger homeowners (35-45) might be focused on interior design and creating a stylish home for themselves, while older homeowners (45-65) might be more interested in home staging for a quick and profitable sale.
-* **Income:** Upper-middle class to high net worth individuals.  The services offered by DesignGaga, particularly full-service staging and interior design, are premium services that require a significant investment.
-* **Location:** Primarily Oakville and the surrounding areas of Toronto, Ontario, Canada.  Given the business's location, the target market is concentrated within a reasonable driving distance.  However, virtual staging services can extend their reach beyond this geographic limitation.
-* **Homeownership Status:** Homeowners, either existing or prospective.  This includes individuals buying, selling, or renovating their homes.  Also includes those who own investment properties or Airbnb rentals.
-* **Occupation:** Professionals, business owners, and executives with disposable income and a desire for high-quality design services.
+* **Age:** 35-65 years old. This range encompasses homeowners preparing to sell, young professionals furnishing their first homes, and established individuals looking to renovate or upgrade their living spaces.
+* **Location:** Primarily Oakville and the Greater Toronto Area (GTA), Ontario, Canada.  Secondary target audience could extend to surrounding areas within a reasonable driving distance for in-person services.
+* **Income:**  Upper-middle class to high-income earners.  Home staging and interior design services are typically considered discretionary spending, suggesting a higher disposable income.  This also aligns with the higher-end nature of the projects showcased in their portfolio.
+* **Homeownership Status:** Primarily homeowners, but could also include renters seeking high-quality design for short-term rentals (Airbnb).
+* **Occupation:** Professionals, business owners, executives, and individuals with disposable income for home improvements.
+* **Family Status:**  Could include single individuals, couples, families with children, or empty nesters.  The services offered cater to a broad range of family structures.
 
 
 **2. Psychographics:**
 
-* **Lifestyle:** Busy professionals and families who value their time and appreciate the convenience of a full-service approach. They seek sophisticated and elegant living spaces reflecting their success and style.  They may be less inclined to engage in extensive DIY projects.
-* **Values:**  Quality, aesthetics, convenience, and return on investment (ROI).  For home staging clients, a quick sale and maximizing property value are key values. For interior design clients, creating a beautiful and functional space is paramount.
-* **Interests:** Home improvement, interior design trends, real estate, modern aesthetics, comfortable and sophisticated living spaces.  They likely follow design blogs, magazines, and social media accounts related to home décor and interior design.
+* **Lifestyle:** Value style, convenience, and efficiency. They appreciate modern design with a touch of timeless elegance and are likely busy professionals who appreciate outsourced expertise.
+* **Values:** Prioritize quality, professionalism, and a stress-free experience. They value time and expertise more than DIY projects.
+* **Interests:** Home décor, interior design trends, real estate, architecture, and maximizing their property value.  They are likely active on social media platforms like Instagram, where DesignGaga maintains a presence.
+* **Technology Usage:** Comfortable using online platforms to view portfolios, book consultations, and communicate with the design team.
 
 
 **3. Pain Points:**
 
-* **Home Staging:** Difficulty in preparing their home for sale to maximize its value and appeal to potential buyers.  Lack of time, design skills, and resources to stage their home effectively.  Concern about achieving a quick sale at the best possible price.
-* **Interior Design:** Overwhelmed by design choices and the process of creating a cohesive and stylish interior.  Lack of time to manage the project themselves.  Uncertainty about achieving the desired aesthetic.
-* **Virtual Staging:** Need for high-quality virtual representations of their properties to attract more potential buyers or renters (especially relevant for real estate agents and Airbnb hosts).
-* **Airbnb Special:**  Desire to optimize their Airbnb listing for maximum occupancy and higher rental income.  Need for professional design and staging to make their property stand out from the competition.
+* **Home Staging:** Difficulty staging a home for sale to maximize its appeal and market value quickly.  Lack of time, design expertise, and resources to handle the project independently.
+* **Interior Design:**  Overwhelmed by the design process, unsure of their style preferences, and lacking the time or skill to execute a successful redesign.  Desire for a cohesive and stylish look, but unsure how to achieve it.
+* **Virtual Staging:** Need for cost-effective and efficient ways to showcase property potential to buyers or renters.
+* **Airbnb Special:** Desire to maximize rental income and attract high-quality guests by creating a visually appealing and functional short-term rental space.
+* **General Pain Points:**  Stress of managing home improvement projects, lack of confidence in their design abilities, and the desire for a seamless and professional experience.
 
 
-**4. Needs:**
+**4. Buying Behaviors:**
 
-* **Home Staging:**  A full-service staging solution that handles every aspect of the process, from assessment to installation, ensuring a quick and profitable sale.
-* **Interior Design:**  A professional designer who can create a beautiful, functional, and stylish space that reflects their personal taste and lifestyle.
-* **Virtual Staging:**  High-quality, realistic virtual renderings of their property to enhance its online appeal.
-* **Airbnb Special:**  A complete design and staging strategy to optimize their Airbnb listing for higher occupancy and rental income.
-* **Consultation Services:**  Expert advice and guidance on any aspect of their home design or staging project.
-
-
-**5. Buying Behaviors:**
-
-* **Research:** They conduct thorough online research before making decisions, looking at portfolios, testimonials, and reviews.
-* **Decision Making:** They value expertise and professional recommendations. They are likely to hire based on reputation, experience, and a clear understanding of the project scope and budget.
-* **Communication:** They prefer clear and responsive communication throughout the project.
-* **Budget:** While budget-conscious, they are willing to invest in high-quality services that deliver value and ROI.
+* **Research:**  Likely to research online, view portfolios, and read reviews before making a decision. They value testimonials and visual evidence of past successes.
+* **Decision-Making:**  Seek personalized recommendations and a consultative approach. Value expert opinions and guidance.
+* **Price Sensitivity:**  While price is a factor, they are willing to invest in high-quality design services that provide a return on investment (e.g., faster home sales, higher rental income).
+* **Communication:**  Prefer clear, concise, and professional communication throughout the design process.
 
 
-**6. Online Behavior:**
+**5.  Goals:**
 
-* **Social Media:** Active on platforms like Instagram, seeking design inspiration and following home décor accounts.
-* **Search Engines:** Utilize search engines to find local interior designers and home stagers.  They search for terms like "home staging Oakville," "interior designer Toronto," "virtual staging services," and "Airbnb design."
-* **Websites:** Visit design portfolios and blogs to learn more about the services offered and the designer's style.
+* **Homeowners Selling:**  Achieve a quicker sale and higher selling price for their property.
+* **Homeowners Renovating:**  Create a stylish and functional living space that reflects their personal style.
+* **Airbnb Hosts:**  Increase rental income and attract more bookings.
+* **All Clients:**  Minimize stress, save time, and achieve their design goals efficiently.
 
 
-This detailed ICP provides a clear understanding of DesignGaga's target audience, enabling focused marketing and sales efforts.
+**Geographic Location:** Oakville, ON and the Greater Toronto Area (GTA), with potential expansion to surrounding regions.
