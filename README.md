@@ -1,4 +1,4 @@
-# AutoBiz Genie: Transforming Businesses with AI Automation
+# AutoBiz Genie: Transforming Businesses with AI Automations
 Simplifying Operations, Enhancing Growth, Empowering Success
 
 `Description`:
