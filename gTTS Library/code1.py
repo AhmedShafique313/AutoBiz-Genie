@@ -1,3 +1,3 @@
 from gtts import gTTS
-tts = gTTS('hello', lang='en')
-tts.save('hello.mp3')
+tts = gTTS('hello world', lang='en')
+tts.save('hello_world.mp3')

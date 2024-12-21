@@ -1,6 +1,8 @@
-from gtts import gTTS
-from io import BytesIO
+from gtts.tokenizer import pre_processors
+import gtts.tokenizer.symbols
 
-mp3_fp = BytesIO()
-tts = gTTS('hello', lang='en')
-tts.write_to_fp(mp3_fp)
+gtts.tokenizer.symbols.SUB_PAIRS.append(
+    ('sub.', 'submarine')
+)
+test_text = "Have you seen the Queen's new sub.?"
+print(pre_processors.word_sub(test_text))
